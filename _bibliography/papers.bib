@@ -2,6 +2,7 @@
 ---
 
 @article{NAGAR2024112800,
+bibtex_show={true},
 title = {Adaptive multi-stage integration schemes for Hamiltonian Monte Carlo},
 journal = {Journal of Computational Physics},
 volume = {502},
@@ -9,9 +10,10 @@ pages = {112800},
 year = {2024},
 issn = {0021-9991},
 doi = {https://doi.org/10.1016/j.jcp.2024.112800},
-url = {https://www.sciencedirect.com/science/article/pii/S0021999124000494},
+html = {https://www.sciencedirect.com/science/article/pii/S0021999124000494},
 author = {Lorenzo Nagar and Mario Fernández-Pendás and Jesús María Sanz-Serna and Elena Akhmatskaya},
 keywords = {Hamiltonian Monte Carlo, Multi-stage integrators, Adaptive integration, Bayesian inference, Stability limit, Velocity Verlet},
+abstract = {Hamiltonian Monte Carlo (HMC) is a powerful tool for Bayesian statistical inference due to its potential to rapidly explore high dimensional state space, avoiding the random walk behavior typical of many Markov Chain Monte Carlo samplers. The proper choice of the integrator of the Hamiltonian dynamics is key to the efficiency of HMC. It is becoming increasingly clear that multi-stage splitting integrators are a good alternative to the Verlet method, traditionally used in HMC. Here we propose a principled way of finding optimal, problem-specific integration schemes (in terms of the best conservation of energy for harmonic forces/Gaussian targets) within the families of 2- and 3-stage splitting integrators. The method, which we call Adaptive Integration Approach for statistics, or s-AIA, uses a multivariate Gaussian model and simulation data obtained at the HMC burn-in stage to identify a system-specific dimensional stability interval and assigns the most appropriate 2-/3-stage integrator for any user-chosen simulation step size within that interval. s-AIA has been implemented in the in-house software package HaiCS without introducing computational overheads in the simulations. The efficiency of the s-AIA integrators and their impact on the HMC accuracy, sampling performance and convergence are discussed in comparison with known fixed-parameter multi-stage splitting integrators (including Verlet). Numerical experiments on well-known statistical models show that the adaptive schemes reach the best possible performance within the family of 2-, 3-stage splitting schemes.}
 }
 
 @string{aps = {American Physical Society,}}

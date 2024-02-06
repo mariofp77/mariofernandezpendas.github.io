@@ -21,5 +21,3 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am interested in the development of sampling techniques applied to the field of molecular simulation. I have worked with Hybrid Monte Carlo methods and numerical integrators applied to simulations in different statistical ensembles. Currently, I am interested in the combination of machine learning techniques with free energy calculation methods.
-
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
