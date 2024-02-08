@@ -20,4 +20,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am mainly interested in the development of enhanced sampling techniques and numerical methods applied to the field of molecular simulation. I have worked with several techniques that range from Hybrid Monte Carlo methods and numerical integrators to Markov State Models or free energy calculations. I contribute both in the theoretical formulation of the methods and the practical implementation in different software packages aiming at running at high performance computers. Currently, I am working on the development of machine learning force fields.
+I am mainly interested in the development of enhanced sampling techniques and numerical methods applied to the field of molecular simulation. I have worked with several techniques that range from Hybrid Monte Carlo methods and numerical integrators to Markov State Models or free energy calculations. I contribute both in the theoretical formulation of the methods and the practical implementation in different software packages aiming at running at high performance computers.
+
+Currently, I am working on the development of machine learning force fields in the group of Ivan Infante at the BCMaterials (Bilbao, Basque Country).
