@@ -2,7 +2,7 @@
 layout: post
 title: Participation in the MATSUS conference in Barcelona
 date: 2024-02-18 13:17:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
