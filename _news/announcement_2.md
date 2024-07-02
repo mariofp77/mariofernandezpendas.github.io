@@ -10,5 +10,4 @@ I will participate in the <a href="https://www.nanoge.org/MATSUS24/home">MATSUS<
 
 ---
 
-I will be delivering a contributed presentation in the <a href="https://www.nanoge.org/MATSUS24/symposia?t=64ec43367375906ec01d236b">Automation and Nanomaterials symposium</a> titled "Machine Learning Force Fields for Colloidal Quantum Dots". The whole symposium program can be found in the following link:
-https://www.nanoge.org/MATSUS24/program/program?t=64ec43367375906ec01d236b
+I will be delivering a contributed presentation in the <a href="https://www.nanoge.org/MATSUS24/symposia?t=64ec43367375906ec01d236b">Automation and Nanomaterials symposium</a> titled "Machine Learning Force Fields for Colloidal Quantum Dots". The whole symposium program can be found <a href="https://www.nanoge.org/MATSUS24/program/program?t=64ec43367375906ec01d236b">here</a>.
